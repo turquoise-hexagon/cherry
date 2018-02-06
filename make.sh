@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 
-for font in *.bdf; do
-    bdftopcf -o "${font/.bdf/.pcf}" "$font"
-done
+for font in *.bdf; { bdftopcf -o "${font/.bdf/.pcf}" "$font"; }
