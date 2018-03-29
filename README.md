@@ -1,5 +1,7 @@
+# Example
+
 ![example](https://i.imgur.com/uMaZq1l.png)
 
-dead simple bitmap font
+# Description
 
-made for latin alphabet 1
+cherry is a dead simple bitmap font, made for latin alphabet 1
