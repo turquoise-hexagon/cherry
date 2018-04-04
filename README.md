@@ -4,11 +4,11 @@ cherry is a dead simple bitmap font, made for latin alphabet 1
 
 ## Screenshots
 
-[10px](https://cdn.rawgit.com/marinhoc/cherry-font/img/10.png)
+[10px](https://cdn.rawgit.com/marinhoc/cherry-font/master/img/10.png)
 
-[11px](https://cdn.rawgit.com/marinhoc/cherry-font/img/11.png)
+[11px](https://cdn.rawgit.com/marinhoc/cherry-font/master/img/11.png)
 
-[13px](https://cdn.rawgit.com/marinhoc/cherry-font/img/13.png)
+[13px](https://cdn.rawgit.com/marinhoc/cherry-font/master/img/13.png)
 
 ## Installation
 
