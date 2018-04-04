@@ -4,9 +4,9 @@ cherry is a dead simple bitmap font, made for latin alphabet 1
 
 ## Screenshots
 
-[10px](https://github.com/marinhoc/cherry-font/master/img/10.png)
-[11px](https://github.com/marinhoc/cherry-font/master/img/11.png)
-[13px](https://github.com/marinhoc/cherry-font/master/img/13.png)
+[10px](https://github.com/marinhoc/cherry-font/master/img/10.png) 
+[11px](https://github.com/marinhoc/cherry-font/master/img/11.png) 
+[13px](https://github.com/marinhoc/cherry-font/master/img/13.png) 
 
 ## Installation
 
