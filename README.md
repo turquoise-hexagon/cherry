@@ -1,6 +1,6 @@
 ## Description
 
-cherry is a dead simple bitmap font, made for latin alphabet 1
+cherry is yet another bitmap font, made for latin 1 
 
 ## Screenshots
 
@@ -22,5 +22,13 @@ cherry is a dead simple bitmap font, made for latin alphabet 1
 $ ./make.sh
 $ mv *.pcf /path/to/cherry-font/out # example : ~/.fonts
 $ mkfontdir /path/to/cherry-font/out
-$ xset +fp /path/to/cherry-font/out
+$ xset +fp /path/to/cherry-font/out # every time X starts
+```
+
+#### Fontconfig
+
+```shell
+$ ./make.sh
+$ mv *.pcf /path/to/cherry-font/out # must be a directory scanned by fontconfig
+$ fc-cache -fv
 ```
