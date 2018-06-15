@@ -20,7 +20,7 @@ cherry is yet another bitmap font, made for latin 1
 
 ```shell
 $ ./make.sh
-$ mv *.pcf /path/to/cherry-font/out # example : ~/.fonts
+$ mv *.pcf /path/to/cherry-font/out # example : ~/.local/share/fonts
 $ mkfontdir /path/to/cherry-font/out
 $ xset +fp /path/to/cherry-font/out # every time X starts
 ```
