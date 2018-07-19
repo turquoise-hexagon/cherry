@@ -1,4 +1,14 @@
 #!/bin/sh
+#             ██
+#            ░██
+#    ████    ░██  ████     ████     ██  ████   ██  ████   ██    ██
+#  ██░░░ ██  ░████░░██   ██░░░ ██  ░████░░░   ░████░░░   ░██   ░██
+# ░██   ░░   ░██░  ░██  ░████████  ░██░       ░██░       ░██   ░██
+# ░██        ░██   ░██  ░██░░░░░   ░██        ░██        ░██   ░██
+# ░░ ██████  ░██   ░██  ░░ ██████  ░██        ░██        ░░ ██████
+#   ░░░░░░   ░░    ░░     ░░░░░░   ░░         ░░           ░░░░░██
+#                                                           ████░
+#                                                          ░░░░░
 
 # ensure bdftopcf is installed
 if ! command -v bdftopcf > /dev/null; then
@@ -7,5 +17,5 @@ if ! command -v bdftopcf > /dev/null; then
 fi
 
 for font in *.bdf; do
-    bdftopcf -o "${font%\.*}.pcf" "$font"
+    bdftopcf "$font" > "${font%\.*}.pcf"
 done
