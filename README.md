@@ -19,7 +19,7 @@ cherry is yet another bitmap font, made for latin 1
 #### Void Linux
 
 ```shell
-xbps-install -S cherry-font
+$ xbps-install -S cherry-font
 ```
 
 #### X11
