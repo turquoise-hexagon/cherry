@@ -16,6 +16,12 @@ cherry is yet another bitmap font, made for latin 1
 
 [AUR package](https://aur.archlinux.org/packages/cherry-font/)
 
+#### Void Linux
+
+```shell
+xbps-install -S cherry-font
+```
+
 #### X11
 
 ```shell
