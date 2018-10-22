@@ -2,7 +2,7 @@
 
 # ensure bdftopcf is installed
 if ! command -v bdftopcf > /dev/null; then
-    echo 'error : install bdftopcf first'
+    echo 'error : install bdftopcf first' >&2
     exit 1
 fi
 
