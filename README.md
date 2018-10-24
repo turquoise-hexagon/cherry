@@ -11,7 +11,7 @@ cherry is yet another bitmap font, made for latin 1
 ![11px](img/11.png)
 
 #### 12px
-![12px](/mg/12.png)
+![12px](img/12.png)
 
 #### 13px
 ![13px](img/13.png)
