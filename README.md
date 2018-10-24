@@ -4,14 +4,17 @@ cherry is yet another bitmap font, made for latin 1
 
 ## Screenshots
 
-*10px*  
-![10px](https://raw.github.com/turquoise-hexagon/cherry/master/img/10.png)  
-*11px*  
-![11px](https://raw.github.com/turquoise-hexagon/cherry/master/img/11.png)  
-*12px*  
-![12px](https://raw.github.com/turquoise-hexagon/cherry/master/img/12.png)  
-*13px*  
-![13px](https://raw.github.com/turquoise-hexagon/cherry/master/img/13.png)  
+#### 10px
+![10px](img/10.png)
+
+#### 11px
+![11px](img/11.png)
+
+#### 12px
+![12px](/mg/12.png)
+
+#### 13px
+![13px](img/13.png)
 
 ## Installation
 
