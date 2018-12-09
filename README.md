@@ -20,7 +20,7 @@ cherry is yet another bitmap font, made for latin 1
 
 #### Arch
 
-[AUR package](https://aur.archlinux.org/packages/cherry-font/)
+[AUR package](https://aur.archlinux.org/packages/cherry-font-git/)
 
 #### Void Linux
 
