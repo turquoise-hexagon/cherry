@@ -22,6 +22,12 @@ cherry is yet another bitmap font, made for latin 1
 
 [AUR package](https://aur.archlinux.org/packages/cherry-font-git/)
 
+#### macOS
+
+```
+$ cp *.dfont ~/Library/Fonts/
+```
+
 #### NixOS
 
 [NixOS package](https://github.com/nixos/nixpkgs/tree/master/pkgs/data/fonts/cherry)
