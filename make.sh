@@ -1,11 +1,11 @@
 #!/bin/sh
 
-# ensure bdftopcf is installed
-if ! command -v bdftopcf > /dev/null; then
-    echo 'error : install bdftopcf first' >&2
+# ensure fonttosfnt is installed
+if ! command -v fonttosfnt > /dev/null; then
+    echo 'error : install fonttosfnt first' >&2
     exit 1
 fi
 
 for font in *.bdf; do
-    bdftopcf "$font" > "${font%\.*}.pcf"
+    fonttosfnt -v -o "${font%.*}.otb" "$font"
 done
