@@ -28,7 +28,7 @@ cherry is yet another bitmap font, made for latin 1
 
 #### Crux
 
-[Crux Port](https://github.com/turquoise-hexagon/ports/tree/master/cherry-otb)
+[Crux Port](https://github.com/turquoise-hexagon/turquoise/tree/master/cherry-otb)
 
 #### Void Linux
 ```
